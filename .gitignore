@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+smart_home.db
+.venv/
+venv/
